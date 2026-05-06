@@ -1,0 +1,107 @@
+[
+  {
+    "id": "S01",
+    "D": "modelo",
+    "I": "comparacao_saidas",
+    "ID": "estatistico",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S02",
+    "D": "modelo",
+    "I": "comparacao_saidas",
+    "ID": "ML",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S03",
+    "D": "modelo",
+    "I": "modelagem_dependencias",
+    "ID": "regras",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S04",
+    "D": "modelo",
+    "I": "modelagem_dependencias",
+    "ID": "estatistico",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S05",
+    "D": "modelo",
+    "I": "modelagem_dependencias",
+    "ID": "ML",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S06",
+    "D": "sinal",
+    "I": "comparacao_saidas",
+    "ID": "estatistico",
+    "R": "exclusao"
+  },
+  {
+    "id": "S07",
+    "D": "sinal",
+    "I": "comparacao_saidas",
+    "ID": "estatistico",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S08",
+    "D": "sinal",
+    "I": "votacao",
+    "ID": "regras",
+    "R": "exclusao"
+  },
+  {
+    "id": "S09",
+    "D": "sinal",
+    "I": "votacao",
+    "ID": "regras",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S10",
+    "D": "sinal",
+    "I": "votacao",
+    "ID": "estatistico",
+    "R": "exclusao"
+  },
+  {
+    "id": "S11",
+    "D": "sinal",
+    "I": "votacao",
+    "ID": "estatistico",
+    "R": "reconf_pesos"
+  },
+  {
+    "id": "S12",
+    "D": "sinal",
+    "I": "filtros_adaptativos",
+    "ID": "regras",
+    "R": "exclusao"
+  },
+  {
+    "id": "S13",
+    "D": "sinal",
+    "I": "filtros_adaptativos",
+    "ID": "estatistico",
+    "R": "exclusao"
+  },
+  {
+    "id": "S14",
+    "D": "dados",
+    "I": "votacao",
+    "ID": "regras",
+    "R": "exclusao"
+  },
+  {
+    "id": "S15",
+    "D": "dados",
+    "I": "votacao",
+    "ID": "estatistico",
+    "R": "exclusao"
+  }
+]
